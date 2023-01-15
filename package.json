@@ -1,7 +1,7 @@
 {
-  "name": "afinn-165",
+  "name": "afinn-165-financialmarketnews",
   "version": "2.0.2",
-  "description": "AFINN 165 (list of English words rated for valence) in JSON",
+  "description": "AFINN 165 (list of English words rated for valence) in JSON with added words and modifications for financial market news",
   "license": "MIT",
   "keywords": [
     "anew",
@@ -15,14 +15,15 @@
     "text",
     "microblogs"
   ],
-  "repository": "words/afinn-165",
+  "repository": "theryan722/afinn-165-financialmarketnews",
   "bugs": "https://github.com/words/afinn-165/issues",
   "funding": {
     "type": "github",
     "url": "https://github.com/sponsors/wooorm"
   },
-  "author": "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)",
+  "author": "Ryan O'Day <romanguy722@gmail.com>",
   "contributors": [
+    "Ryan O'Day <romanguy722@gmail.com>",
     "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)"
   ],
   "sideEffects": false,
