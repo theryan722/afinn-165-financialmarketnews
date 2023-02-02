@@ -3,7 +3,7 @@
  *
  * @type {Record<string, number>}
  */
-export const afinn165FinancialMarketNews = {
+const afinn165FinancialMarketNews = {
   abandon: -2,
   abandoned: -2,
   abandons: -2,
