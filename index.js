@@ -3561,3 +3561,7 @@ export const afinn165FinancialMarketNews = {
   jump: 1,
   balloon: -1
 }
+
+module.exports = {
+  afinn165FinancialMarketNews
+}
